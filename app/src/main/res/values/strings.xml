@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW3 pt 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Sites">
+        <item>http://google.com</item>
+        <item>http://theonion.com</item>
+        <item>http://reddit.com</item>
+        <item>...</item>
+    </string-array>
+</resources>
